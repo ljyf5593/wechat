@@ -1,4 +1,1 @@
-wechat
-======
-
-kohana wechat sdk
+#wechat
